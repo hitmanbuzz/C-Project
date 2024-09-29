@@ -6,5 +6,6 @@ This repository is specially made for all the C project (including small-big) I 
 - Prime Number
 - Fibonacci
 - Consonant & Vowel in String
+- Palindrome Check (String only)
 
 `Author: Moirangthem Henthoiba (HitmanBuzz)`
