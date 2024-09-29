@@ -5,5 +5,6 @@ This repository is specially made for all the C project (including small-big) I 
 - Greatest Common Divisor (GCD)
 - Prime Number
 - Fibonacci
+- Consonant & Vowel in String
 
 `Author: Moirangthem Henthoiba (HitmanBuzz)`
