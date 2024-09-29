@@ -4,5 +4,6 @@ This repository is specially made for all the C project (including small-big) I 
 #### All Project
 - Greatest Common Divisor (GCD)
 - Prime Number
+- Fibonacci
 
 `Author: Moirangthem Henthoiba (HitmanBuzz)`
