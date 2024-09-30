@@ -2,7 +2,7 @@
 
 This repository is specially made for all the C project (including small-big) I made.
 
-**Total Project**: 5 
+**Total Project**: 6 
 
 #### All Project
 - Greatest Common Divisor (GCD)
