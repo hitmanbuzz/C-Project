@@ -10,5 +10,6 @@ This repository is specially made for all the C project (including small-big) I 
 - Fibonacci
 - Consonant & Vowel in String
 - Palindrome Check (String only)
+- Bubble Sort
 
 `Author: Moirangthem Henthoiba (HitmanBuzz)`
